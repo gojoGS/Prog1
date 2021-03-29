@@ -11,7 +11,7 @@
 * Készítsük el: *PPP. Ch 20.6 Text Editor*
 * Nézzük meg: *PPP. Ch 20 Exercise 6, 8*
 
-**Határidő: 2021. 04. 05. 00:01**
+**Határidő: 2021. 04. 12. 00:01**
 
 <!-- ## Összefoglalók -->
 ## [Keddi csoport source](../etc/week07/kedd/)

@@ -1,0 +1,13 @@
+# Week08
+
+## A hét feladatai
+
+* Olvassuk el: *PPP. Ch 20*
+* Készítsük el: *PPP. Chapter 20 Drills*
+
+**Határidő: 2021. 04. 19. 00:01**
+
+<!-- ## Összefoglalók -->
+<!-- ## [Keddi csoport source](../etc/week07/kedd/)
+
+## [Szerdai csoport source](../etc/week07/szerda/) -->
