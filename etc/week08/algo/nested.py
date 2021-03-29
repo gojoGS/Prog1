@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 import itertools
 
-# A typusok elhagyhatóak
+# A típusok elhagyhatóak
 
 
 def nested(s: str) -> int:
@@ -15,6 +15,8 @@ def nested(s: str) -> int:
         else:
             return 0
 
+    return max(itertools.accumulate(map(value, s)))
+
     # Ugyanazt az eredményt adja, mint a return max(list(...)) sor
     # Csak egy kicsivel szellősebb
     # És list comprehensiont használ map helyett
@@ -23,7 +25,9 @@ def nested(s: str) -> int:
     # lst = list(itertools.accumulate(lst))
     # return max(lst)
 
-    return max(list(itertools.accumulate(map(value, s))))
+    # Legtömörebb verzió
+    # pairs = {'(': 1, ')': -1}
+    # return max(itertools.accumulate(map(lambda a: pairs.get(a, 0), s)))
 
 
 def main():
