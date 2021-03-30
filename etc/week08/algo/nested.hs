@@ -7,6 +7,8 @@ value c
 nesting :: String -> Integer
 nesting s = maximum (scanl1 (+) (map value s))
 
+-- nesting s = maximum . scanl1 (+) $ map value s
+
 tests :: [[Char]]
 tests = ["()", "(a + b)", "((a + b) * 3)", "3 + 4", "((((()))))"]
 
