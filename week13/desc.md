@@ -2,7 +2,7 @@
 
 ## A hét feladatai
 
-* [Olvassuk el](https://regi.tankonyvtar.hu/hu/tartalom/tamop412A/2011-0063_01_parhuzamos_prog_linux/ch05s02.html)*
+* [Olvassuk el](https://regi.tankonyvtar.hu/hu/tartalom/tamop412A/2011-0063_01_parhuzamos_prog_linux/ch05s02.html)
 * Készítsük el: *OpenMP párhuzamos EXOR példa*
 
 ### Előadás Extra
