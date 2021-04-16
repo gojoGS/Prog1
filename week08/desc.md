@@ -9,5 +9,4 @@
 
 ## [Keddi csoport source](../etc/week08/kedd/)
 
-<!-- 
-## [Szerdai csoport source](../etc/week07/szerda/)  -->
+## [Szerdai csoport source](../etc/week08/szerda/)
