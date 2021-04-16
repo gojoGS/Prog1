@@ -4,7 +4,6 @@
 
 * Ismétlés: *PPP. Ch 17-19.2*
 * Olvassuk el: *PPP. Ch 19.5-végig*
-* Készítsük el: *PPP. Chapter 20 Drills*
 
 ### Előadás Extra
 
